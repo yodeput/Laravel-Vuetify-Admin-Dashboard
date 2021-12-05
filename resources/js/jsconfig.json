@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "baseUrl": "./",
+        "allowSyntheticDefaultImports": false,
+        "paths": {
+            "@/*": [
+                "resources/js/src/*"
+            ]
+        }
+    }
+}
